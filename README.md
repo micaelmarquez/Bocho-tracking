@@ -1,6 +1,6 @@
 # Bocho-tracking-Biomedical-Engineer-Final-Project
 ## English
---------------------------
+
 ### Headmouse for users with a severe motor impairment, using computer vision and data management libraries from Python.
 Bocho-tracking-Biomedical-Engineer-Final-Project
 --------------------------
@@ -19,7 +19,7 @@ The purpose of this work was to develop a computer accessibility device for indi
 
 Results
 --------------------------
-The developed device, called and registered as Bocho \textregistered, is an alternative for controlling the computer cursor through simple head movements, and most importantly, autonomously. It works through infrared light emitted by an array of infrared LEDs, which is then reflected by a reflective sticker that the user wears on a pair of simple glasses or on their skin. Part of the reflected light from the reflective sticker reaches a webcam, where a visible light filter eliminates the entire electromagnetic spectrum corresponding to the visible range.
+The developed device, called and registered as Bocho, is an alternative for controlling the computer cursor through simple head movements, and most importantly, autonomously. It works through infrared light emitted by an array of infrared LEDs, which is then reflected by a reflective sticker that the user wears on a pair of simple glasses or on their skin. Part of the reflected light from the reflective sticker reaches a webcam, where a visible light filter eliminates the entire electromagnetic spectrum corresponding to the visible range.
 
 This system is significantly cheaper than current alternatives in the market and offers higher precision, allowing even the use of design and modeling applications.
 
@@ -58,7 +58,7 @@ independientemente de la lesión o patología que posean.
 
 RESULTADOS
 -------------------------
-El dispositivo desarrollado, llamado y registrado como Bocho \textregistered, es una alternativa para controlar el cursor de la computadora mediante movimientos cefálicos 
+El dispositivo desarrollado, llamado y registrado como Bocho, es una alternativa para controlar el cursor de la computadora mediante movimientos cefálicos 
 simples, y lo más importante, de forma autónoma. Funciona mediante luz infrarroja, la cual emitida por un arreglo de LEDs infrarrojos, que luego es reflejada por un sticker 
 reflectante que posee el usuario en un par de anteojos simples, o bien sobre su piel. Parte de la luz reflejada por el sticker reflectante llega a una cámara web, donde 
 se encuentra un filtro de luz visible que elimina todo el espectro electromagnético correspondiente al rango visible.
